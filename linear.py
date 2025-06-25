@@ -6,7 +6,7 @@ import numpy as np
 from sklearn import datasets, linear_model
 import pandas as pd
 
-df = pd.read_csv("C:\\Users\\neeta\\Downloads\\Housing.csv")
+df = pd.read_csv("https://github.com/NeetaCode/AI-ML-Practice/blob/main/Housing.csv")
 
 
 Y = df['price']
